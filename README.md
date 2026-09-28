@@ -1,2 +1,38 @@
-# ml-zoomcamp-2026
-Solutions, homework assignments, and projects for DataTalks.Club Machine Learning Zoomcamp 2026.
+# Machine Learning Zoomcamp (2026)
+
+This repository contains my homework submissions, notes, and projects for the [Machine Learning Zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) offered by [DataTalks.Club](https://datatalks.club/).
+
+---
+
+## 📚 Course Curriculum & Progress
+
+| Module | Topic | Status | Code / Solution |
+| :--- | :--- | :---: | :---: |
+| **01** | Introduction to Machine Learning |  Completed | [Module 1 Notebook](./01-intro/homework1.ipynb) |
+| **02** | Machine Learning for Regression | ⏳ In Progress | [Module 2](./02-regression/) |
+| **03** | Machine Learning for Classification | ⏳ Upcoming | - |
+| **04** | Evaluation Metrics for Machine Learning | ⏳ Upcoming | - |
+| **05** | Deploying Machine Learning Models | ⏳ Upcoming | - |
+| **06** | Decision Trees and Ensemble Learning | ⏳ Upcoming | - |
+| **07** | **Midterm Project** | ⏳ Upcoming | - |
+| **08** | Neural Networks and Deep Learning | ⏳ Upcoming | - |
+| **09** | Serverless Deep Learning | ⏳ Upcoming | - |
+| **10** | Kubernetes | ⏳ Upcoming | - |
+| **11** | **Capstone Project 1** | ⏳ Upcoming | - |
+| **12** | **Capstone Project 1** | ⏳ Upcoming | - |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Languages:** Python
+* **Libraries:** NumPy, Pandas, Scikit-Learn, Matplotlib, Seaborn
+* **Deployment & Cloud:** Docker, FastAPI, AWS Lambda, Kubernetes
+* **Environment:** Jupyter Notebook / VS Code
+
+---
+
+## 📂 Homework 1 Overview
+
+* **Task:** Basics of Pandas, NumPy, and simple linear algebra calculations.
+* **Notebook:** [`01-intro/homework1.ipynb`](./01-intro/homework1.ipynb)
