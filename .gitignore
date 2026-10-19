@@ -220,7 +220,5 @@ __marimo__/
 .DS_Store
 
 # Others
-02_regression/data.csv
-03_classification/data.csv
-03_classification/hw_data.csv
 */data.csv
+*/hw_data.csv
