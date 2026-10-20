@@ -222,3 +222,4 @@ __marimo__/
 # Others
 */data.csv
 */hw_data.csv
+*/*.bin
