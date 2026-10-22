@@ -12,7 +12,7 @@ This repository contains my homework submissions, notes, and projects for the [M
 | **02** | Machine Learning for Regression         |  Completed  |   [Module 2 Notebook](./02_regression/homework2.ipynb)   |
 | **03** | Machine Learning for Classification     |  Completed  | [Module 3 Notebook](./03_classification/homework3.ipynb) |
 | **04** | Evaluation Metrics for Machine Learning |  Completed  |   [Module 4 Notebook](./04_evaluation/homework4.ipynb)   |
-| **05** | Deploying Machine Learning Models       | ⏳ Upcoming |                            -                             |
+| **05** | Deploying Machine Learning Models       |  Completed  |      [Module 5 HW folder](./05_deployment/homework)      |
 | **06** | Decision Trees and Ensemble Learning    | ⏳ Upcoming |                            -                             |
 | **07** | **Midterm Project**                     | ⏳ Upcoming |                            -                             |
 | **08** | Neural Networks and Deep Learning       | ⏳ Upcoming |                            -                             |
