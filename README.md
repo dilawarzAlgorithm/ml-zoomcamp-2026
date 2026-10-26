@@ -13,7 +13,7 @@ This repository contains my homework submissions, notes, and projects for the [M
 | **03** | Machine Learning for Classification     |  Completed  | [Module 3 Notebook](./03_classification/homework3.ipynb) |
 | **04** | Evaluation Metrics for Machine Learning |  Completed  |   [Module 4 Notebook](./04_evaluation/homework4.ipynb)   |
 | **05** | Deploying Machine Learning Models       |  Completed  |      [Module 5 HW folder](./05_deployment/homework)      |
-| **06** | Decision Trees and Ensemble Learning    | ⏳ Upcoming |                            -                             |
+| **06** | Decision Trees and Ensemble Learning    |  Completed  |      [Module 6 Notebook](./06_tree/homework.ipynb)       |
 | **07** | **Midterm Project**                     | ⏳ Upcoming |                            -                             |
 | **08** | Neural Networks and Deep Learning       | ⏳ Upcoming |                            -                             |
 | **09** | Serverless Deep Learning                | ⏳ Upcoming |                            -                             |
